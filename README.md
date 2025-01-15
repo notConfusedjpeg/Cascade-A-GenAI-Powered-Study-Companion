@@ -37,7 +37,7 @@ CASCADE is a GenAI-powered study companion designed to empower you on your journ
 ## Installation
 
 1. **Manual Dependency Installation:** Follow these steps:
-    * Run the `install_dependencies.bat` script: [link]()
+    * Run the `Install_Dependencies.bat` script: [link](https://github.com/notConfusedjpeg/Cascade-A-GenAI-Powered-Study-Companion/blob/main/Install_Dependencies.bat)
     * Install Google Cloud SDK (if not already installed): [link](https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe). After installation, authenticate using: `gcloud auth login`
 2. **Run CASCADE:** After installation, run CASCADE as administrator. Ensure your system's display scaling is set to 125% for optimal rendering.
 
