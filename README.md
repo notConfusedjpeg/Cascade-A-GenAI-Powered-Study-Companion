@@ -1,13 +1,13 @@
 # CASCADE - Your GenAI-Powered Study Companion
 
-[![License](https://img.shields.io/badge/License-Custom-blue.svg)]()
+[![License](https://img.shields.io/badge/License-Custom-blue.svg)](https://github.com/notConfusedjpeg/Cascade-A-GenAI-Powered-Study-Companion/blob/main/LICENSE.md)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-GUI-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Gemini%20%7C%20Vertex%20AI-orange.svg)](https://cloud.google.com/)
 
 
 
-![]()
+![](https://github.com/notConfusedjpeg/Cascade-A-GenAI-Powered-Study-Companion/blob/main/assets/Frame-43(2).gif)
 
 
 ## Elevate Your Skills, Advance Your Career
@@ -47,7 +47,7 @@ CASCADE's AI features are currently in pre-production and require access to Goog
 
 ## License
 
-This project is licensed under a custom license - see the [LICENSE]() file for details.
+This project is licensed under a custom license - see the [LICENSE](https://github.com/notConfusedjpeg/Cascade-A-GenAI-Powered-Study-Companion/blob/main/LICENSE.md) file for details.
 
 ## Contact
 
