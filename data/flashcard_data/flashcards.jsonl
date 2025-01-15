@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "name": "discrete maths",
+      "flashcards": [
+        {
+          "question": "what is dnf?",
+          "answer": "disjoint function",
+          "current_text": "disjoint function"
+        },
+        {
+          "question": "what are the operations for AND?",
+          "answer": "^ ",
+          "current_text": "#2"
+        },
+        {
+          "question": "Tautology",
+          "answer": "When all rows are TRUE",
+          "current_text": "#3"
+        }
+      ]
+    },
+    {
+      "name": "dbms",
+      "flashcards": [
+        {
+          "question": "Super keys value",
+          "answer": "Can be null",
+          "current_text": "#2"
+        },
+        {
+          "question": "Is trad file system better than dbms?",
+          "answer": "No",
+          "current_text": "#3"
+        },
+        {
+          "question": "DBMS Feature",
+          "answer": "Data integrity and secuirty",
+          "current_text": "#3"
+        }
+      ]
+    }
+  ]
+}
